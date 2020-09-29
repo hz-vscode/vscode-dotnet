@@ -1,0 +1,21 @@
+{
+    "name": "hz-dotnet",
+    "publisher": "hz-vscode",
+    "displayName": "hz.dotnet",
+    "description": "dotnet develop extensions",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "craigthomas.supersharp", 
+        "jchannon.csharpextensions", 
+        "k--kato.docomment", 
+        "Leopotam.csharpfixformat", 
+        "ms-dotnettools.csharp", 
+        "reflectiondm.classynaming"
+    ]
+}
